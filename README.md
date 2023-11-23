@@ -3,6 +3,10 @@ O iframe também serve para fazer sites de terceiros funcionarem no seu próprio
 se você quiser com que o site do seu amigo, ou do youtube funcione basta pegar a url.
 no youtube você precisa clicar em compartilhar e incorporar, e pegar a url que aparece depois da tag ''src'' do vídeo que você deseja.
 se quiser com que o site do seu amigo rode, basta pegar o ip da máquina dele pelo prompt de comando, e fazer da seguinte forma
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
